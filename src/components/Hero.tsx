@@ -19,7 +19,7 @@ export default function Hero() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-brand-400 opacity-75" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-brand-400" />
             </span>
-            Trusted by 50,000+ investors worldwideeee
+            Trusted by 50,000+ investors worldwide
           </div>
 
           <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl lg:text-7xl">
